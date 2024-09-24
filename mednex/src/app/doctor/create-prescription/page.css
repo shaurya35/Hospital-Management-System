@@ -1,0 +1,65 @@
+.container {
+  position: relative;
+  width: 800px;
+  /* background-color: red; */
+}
+
+.font {
+  font-size: 13px;
+}
+
+.abs {
+  position: absolute;
+}
+
+.content {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+
+/* doctors  */
+.doctorName {
+  top: 9rem;
+  left: 38rem;
+  color: black;
+}
+
+.doctorSpecialization {
+  top: 10.4rem;
+  left: 38rem;
+  color: black;
+}
+
+/* paitent */
+.patientName {
+  top: 15.2rem;
+  left: 7rem;
+}
+
+.patientDob {
+  top: 16.6rem;
+  left: 10rem;
+}
+
+.patientGender {
+  top: 16.9rem;
+  left: 29.1rem;
+}
+
+.patientPhone {
+  top: 18.2rem;
+  left: 10.3rem;
+}
+
+.patientEmail {
+  top: 18.2rem;
+  left: 28.3rem;
+}
+
+.patientAddress {
+  top: 19.8rem;
+  left: 7.8rem;
+}
